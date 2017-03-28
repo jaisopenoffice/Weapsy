@@ -1,6 +1,5 @@
 {
-  "projects": [ "src", "test", "src/Weapsy" ],
   "sdk": {
-    "version": "1.0.1"
+    "version": "1.0.0-preview2-003131"
   }
 }
